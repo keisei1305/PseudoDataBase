@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Пам\Пам\bin\Debug\net5.0\Пам.exe
+C:\Users\admin\source\repos\Пам\Пам\bin\Debug\net5.0\Пам.deps.json
+C:\Users\admin\source\repos\Пам\Пам\bin\Debug\net5.0\Пам.runtimeconfig.json
+C:\Users\admin\source\repos\Пам\Пам\bin\Debug\net5.0\Пам.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Пам\Пам\bin\Debug\net5.0\Пам.dll
+C:\Users\admin\source\repos\Пам\Пам\bin\Debug\net5.0\ref\Пам.dll
+C:\Users\admin\source\repos\Пам\Пам\bin\Debug\net5.0\Пам.pdb
+C:\Users\admin\source\repos\Пам\Пам\obj\Debug\net5.0\Пам.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Пам\Пам\obj\Debug\net5.0\Пам.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Пам\Пам\obj\Debug\net5.0\Пам.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Пам\Пам\obj\Debug\net5.0\Пам.AssemblyInfo.cs
+C:\Users\admin\source\repos\Пам\Пам\obj\Debug\net5.0\Пам.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Пам\Пам\obj\Debug\net5.0\Пам.dll
+C:\Users\admin\source\repos\Пам\Пам\obj\Debug\net5.0\ref\Пам.dll
+C:\Users\admin\source\repos\Пам\Пам\obj\Debug\net5.0\Пам.pdb
+C:\Users\admin\source\repos\Пам\Пам\obj\Debug\net5.0\Пам.genruntimeconfig.cache
